@@ -172,6 +172,8 @@ VS Code's proprietary extensions will be implemented using Hyperjump's `addKeywo
 
 - I have intentionally kept this proposal focused on high-level architecture and LSP wire behavior. I want to remain agile and avoid over-prescribing granular API details until I can collaborate directly with the mentors to align with their long-term vision for the @hyperjump ecosystem
 
+- As for the qualification task, I have invited both the mentors to the repository, please do join.
+
 ## Scheduling
 
 - In the initial period i.e, May , I might only be able to give about 15-20hrs/week as my End Semester Exams will most probably be starting then.
